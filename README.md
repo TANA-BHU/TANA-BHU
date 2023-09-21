@@ -1,5 +1,5 @@
 
-### Tanayendu Badi -- tana-bhu
+### Tanayendu Bari -- tana-bhu
 
 I am a _student_ who loves _Mathematics_. My alias name is lag_ran inspired by famous Mathematician _Joseph-Louis Lagrange_.
 
