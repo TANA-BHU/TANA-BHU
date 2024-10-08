@@ -9,7 +9,7 @@
 
 **Get in touch**
 
-📫 Email: baditanayendu24199@gmail.com
-📫 Organisation Email:tanayendu.bari@intel.com / tabari@habana.ai
+📫 Email: baditanayendu24199@gmail.com <br/>
+📫 Organisation Email: tanayendu.bari@intel.com / tabari@habana.ai
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tana-bhu)](https://github.com/tana-bhu/github-readme-stats)
